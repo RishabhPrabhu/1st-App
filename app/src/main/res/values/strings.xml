@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pic A Do</string>
+    <string name="a_fun_way_to_take_notes">A fun way to take notes</string>
+    <string name="pic_a_do">Pic A Do</string>
+    <string name="take_a_note">Take A Note</string>
+    <string name="or">- - - - OR - - - -</string>
+    <string name="view_notes">View all notes</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="default_ringtone">Default Ringtone</string>
+    <string name="ringtone">Ringtone</string>
+    <string name="daily">Daily</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="yearly">Yearly</string>
+    <string name="todo">ToDo</string>
+    <string name="anniv">Anniv</string>
+    <string name="birthday">Birthday</string>
+    <string name="event">Event</string>
+    <string name="bills">Bills</string>
+    <string name="contact_no_optional">Contact No. (Optional)</string>
+</resources>

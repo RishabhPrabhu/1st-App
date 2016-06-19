@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_splash"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:layout_marginTop="-50dp"
+    tools:context="com.example.f1.picado.Splash_Screen">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:src="@drawable/pic_a_do_title_test"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/a_fun_way_to_take_notes"
+        android:textSize="20sp"
+        android:textColor="@android:color/black"
+        android:fontFamily="sans-serif-light"
+        android:gravity="center"
+        />
+</LinearLayout>
